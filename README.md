@@ -1,0 +1,5 @@
+Cardiopredictor: A Real-Time Non-Invasive and Cuffless Cardiovascular Disease Prediction System Using 10 Fold Cross Validation on the Framingham Dataset
+
+CardioPredictor is an innovative, non-invasive, and cuffless health monitoring device to measure inflammatory biomarkers like glucose, cholesterol, and blood pressure using low-cost sensors. Data is displayed on an Organic Light Emitting Diode (OLED) screen and sent to a ThingSpeak public server within 30 seconds. A web-based predictive model, harnessing the predictive power of Gradient Boosting method, predicts the 10 -year probability of developing cardiovascular disease (CVD) based on the Framingham dataset. With 10-fold cross-validation, the model obtained 89 % accuracy. This solution allows for fast and easy access to health insights that feeds into a sustainable healthcare system empowering early detection and intervention for being at risk of CVD, ranked one of the top global health threats.
+
+DOI: 10.1109/QPAIN66474.2025.11171821
