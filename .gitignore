@@ -1,0 +1,15 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folder
+.venv/
+env/
+
+# Ignore system files
+.DS_Store
+
+# Ignore dataset and sensitive credentials
+cardio_train.csv
+config.json
+model.pkl
